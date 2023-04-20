@@ -1,0 +1,21 @@
+.box-container {
+    height: 400px;
+    width: 500px;
+    border: 2px solid black;
+    margin: 10px;
+  }
+
+  .a,.b{
+    height: 100px;
+    width: 200px;
+    border: solid 2px black;
+    margin: 10px;
+  }
+
+.a{
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg");
+    background-size: 60px 70px;
+    background-repeat: no-repeat;
+  background-position:right top;
+
+}
